@@ -24,7 +24,7 @@ async function allBrowsers () {
         `microsoft-edge`
     ];
 }
-
+//had issues when trying to do html/*.html` and html/**/*.html
 let validateHTML = () => {
     return src([
         `/html/*.html`,
