@@ -1,0 +1,11 @@
+html {
+  padding:5px;
+  font-size:24px;
+  margin:5px;
+  background-color: rgb(145, 236, 248);
+}
+
+h1 {
+  font-size:50px;
+  font-weight:bold;
+}
